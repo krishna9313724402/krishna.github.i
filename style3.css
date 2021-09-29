@@ -167,3 +167,11 @@ ul a:hover:before{
    
 
 }
+
+@media(max-width:700px){
+    header{
+        width: fit-content;
+        height: fit-content;
+        padding: 0 50px;
+    }
+}
